@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import socket
-import time
 
 IPADDR = '192.168.1.150'
 PORTNUM = 9999
