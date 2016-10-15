@@ -1,3 +1,6 @@
+# This project is deprecated!
+Use this instead: https://github.com/plasticrake/hs100-api
+
 # tplink-hs100
 
 I wanted to figure out how to turn on or off my TP-Link HS100 Smart Plug. There doesnt seem to be any public API so I ran tcpdump on my tomato router while watching the commands sent from my phone to the device.
